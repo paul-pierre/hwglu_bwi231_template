@@ -1,2 +1,2 @@
-# hwglu_bwi231_template
-Template for GitHub Classroom
+# Gruppe X - Bewertungsergebnisse
+Offene Fehlversuche: 2
